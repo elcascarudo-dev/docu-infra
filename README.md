@@ -1,5 +1,5 @@
 # challenger-alkemy
-Challenger alkemy - NodeJS
+Docu-Infra
 
 
 
@@ -9,13 +9,13 @@ Challenger alkemy - NodeJS
 1.- Clonar el repositorio
 
 ```
-git clone https://github.com/elcascarudo-dev/login-nodejs.git
+git clone https://github.com/elcascarudo-dev/docu-infra.git
 ```
 
 2.- ingresar al directorio 
 
 ```bash
-cd login-nodejs
+cd docu-infra
 ```
 
 3.- Copiar el archivo .env_model
